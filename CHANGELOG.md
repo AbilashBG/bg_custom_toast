@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## [0.0.2] - 2025-02-16
+## [0.0.3] - 2025-05-10
 ### Added
 - **Initial release** of `bg_custom_toast`, a fully customizable toast notification package for Flutter.
 - **Multiple animations**:

@@ -1,6 +1,6 @@
 name: bg_custom_toast
 description: "This package is used to show toast with multiple animation options."
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/AbilashBG/bg_custom_toast.git
 
 environment:
@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-bg_custom_toast: ^0.0.2
+bg_custom_toast: ^0.0.3
 
 dev_dependencies:
   flutter_test:
